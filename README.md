@@ -1,6 +1,9 @@
 # chrome-devtools-furacode-theme
-Make your Chrome DevTools Sources editor look better with FuraCode Nerd Font (monospaced font with programming ligatures)
+Use this theme to make the editor in Chrome DevTools Sources tab look better with FuraCode Nerd Font (monospaced font with programming ligatures)
 
+<img src="http://s.tonsky.me/imgs/fira_code_logo.svg">
+
+After installing the theme, your editor will look like below
 <img src="./screenshot.png">
 
 ## Install FuraCode Nerd Font
