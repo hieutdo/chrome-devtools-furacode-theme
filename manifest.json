@@ -1,0 +1,7 @@
+{
+  "name": "DevTools FuraCode Theme",
+  "version": "0.0.1",
+  "description": "Make your Chrome DevTools Sources editor look better with FuraCode Nerd Font",
+  "devtools_page": "devtools.html",
+  "manifest_version": 2
+}

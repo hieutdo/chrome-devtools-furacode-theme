@@ -1,0 +1,8 @@
+.monospace,
+.source-code {
+  font-family: 'FuraCode Nerd Font', monospace !important;
+}
+
+.CodeMirror pre {
+  font-variant-ligatures: normal !important;
+}
